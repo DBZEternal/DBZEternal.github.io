@@ -178,6 +178,7 @@ body.sticky-bottom-footer {
 body {
   text-align: justify;
   font-family: "Carlito", Verdana, "Calibri";
+  line-height: 1.4;
 }
 
 p,
