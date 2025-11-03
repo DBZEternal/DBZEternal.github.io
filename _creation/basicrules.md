@@ -40,7 +40,7 @@ When you use an attack, you must state in parenthesis ( ) OOC what you are doing
 
 Likewise, your attacks should be described within reason.  If you want your ki blasts to be fireballs: that's fine.  If you want them to be beams of pure energy or lasers or spontaneous explosions, that's okay too.  A ki attack should not, however, be a punch any more than a hand-to-hand attack should be shooting someone with eye lasers.  Be sensible with its appearance, but go nuts with its description.
 
-##### No Metagaming
+###### No Metagaming
 Metaming means using out of character knowledge in character.  An example of this would be having your character know what other characters are planning even though your character was not there when two others discussed some evil plot, and you have your character automatically know of and react to information they were never told just because you read it yourself.  Another example of this would be assuming key facts of certain races when your character is not of that race and has not been told of their quirks, i.e., you should not assume you know of a Saiyan's weakness for having their Tail grabbed, or cut off to stop them from transforming, unless you were told it by someone or you witness it happen (by watching a saiyan fight and seeing it happen in-character).
 
 #### Honest Rollers
