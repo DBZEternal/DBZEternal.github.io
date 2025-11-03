@@ -1,6 +1,67 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+// Fonts
+.carlito-regular {
+  font-family: "Carlito", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.carlito-bold {
+  font-family: "Carlito", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.carlito-regular-italic {
+  font-family: "Carlito", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.carlito-bold-italic {
+  font-family: "Carlito", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/calibri-regular.ttf");
+}
+
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 400;
+  src: url("../assets/fonts/calibri-italic.ttf");
+}
+
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../assets/fonts/calibri-bold.ttf");
+}
+
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 700;
+  src: url("../assets/fonts/calibri-bold-italic.ttf");
+}
+
+// Custom Code for body formatting
+
+body { 
+  text-align: justify;
+  font-family: "Carlito", Verdana, "Calibri";
+}
+
+
 
 // Typography
 
@@ -17,6 +78,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-weight: 700;
 }
 
 hr {
