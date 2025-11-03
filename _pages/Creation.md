@@ -6,13 +6,13 @@ nav_order: 1
 dropdown: true
 children:
     - title: Basic Rules
-      permalink: /Creation/BasicRules/
+      permalink: /creation/basicrules/
     - title: Character Creation
-      permalink: /Creation/CharacterCreation/
+      permalink: /creation/charactercreation/
     - title: Statistics
-      permalink: /Creation/Statistics/
+      permalink: /creation/statistics/
     - title: Skills
-      permalink: /Creation/Skills/
+      permalink: /creation/skills/
 ---
 
 Test page.
