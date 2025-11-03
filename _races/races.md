@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: distill
 title: races test
 permalink: /races/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 20
-display_categories: [work, fun]
-horizontal: false
+nav_order: 4
 ---
 
 <!-- pages/projects.md -->
