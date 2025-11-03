@@ -74,6 +74,9 @@ body {
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
 }
+body {
+  font-family: Carlito, Verdana, Calibri;
+}
 
 body.fixed-top-nav {
   padding-top: 56px;
@@ -89,6 +92,30 @@ body.sticky-bottom-footer {
 
 .profile img {
   width: 100%;
+}
+
+.carlito-regular {
+  font-family: "Carlito", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.carlito-bold {
+  font-family: "Carlito", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.carlito-regular-italic {
+  font-family: "Carlito", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.carlito-bold-italic {
+  font-family: "Carlito", sans-serif;
+  font-weight: 700;
+  font-style: italic;
 }
 
 /******************************************************************************
