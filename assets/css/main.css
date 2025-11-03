@@ -181,6 +181,14 @@ body {
   line-height: 1.3em;
 }
 
+h1 {
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 22px;
+}
+
 p,
 h1,
 h2,
