@@ -1,26 +1,15 @@
 ---
 layout: about
-title: about
+title: DBZE
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true # includes a list of news items
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Dragon Ball Z Eternal** is a homebrew game system taking elements from several other systems (Exalted, d20, etc) to create a unique play experience for a game set in the world of [Dragon Ball](https://dragonball.fandom.com/wiki/Dragon_Ball_Z), an anime created by Akira Toriyama. This is a non-commercial project done out of love for the series and setting, and a collaborative effort from dozens of people over just as many years in order to refine and improve a set of rules ultimately meant to bring enjoyment to all that struggle through the many, many intricacies in order to play pretend Z fighters with others.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+On behalf of everyone who's worked on the PHB, we hope you'll join us to create more engaging stories.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On this page you'll also find link to the most recent updates, click them to see a full list of changes as they're published. You should expect any updates to the PHB to be released on Friday evenings.
+
+While this game has been a collaborative effort from dozens of people throughout the years, I want to first and foremost thank the late, great Emily (Miss Pink / Green Rabite) without whom this game would not exist, though there is a more exhaustive list of contributors that have worked on the game throughout the years that you can find [HERE](https://anchorsify.github.io/Credits/).
