@@ -179,7 +179,88 @@
       <d-article>
         
 
-        <p>Test page for stats.</p>
+        <p>Attributes (also commonly referred to as statistics, or ‘stats’ for short) are numerical representations of your character’s overall physical condition: how strong they are, how fast they are, and so forth. They are the baseline for determining performance.</p>
+
+<p>The five primary attributes make up, in game terms, the core of a character’s capabilities. Baseline ‘normal human’ stats are around 10. Player characters will quickly exceed these numbers, as they hone their bodies and minds to supernatural levels to achieve feats which your average person would normally consider impossible.</p>
+
+<h5 id="strength-str">Strength (STR)</h5>
+<p>Strength is a measurement of your ability to exert physical force on the world around you. Exceptionally strong people may be correspondingly muscular, though beware that some fighters draw ‘strength’ from their chakra, and thus can be deceptively lean.</p>
+
+<ul>
+  <li>Your Physical Damage Bonus (PDB) is STR/15, rounded down to one decimal point.</li>
+  <li>Your Vitality is (RES * 6 + STR * 4)</li>
+</ul>
+
+<h5 id="resilience-res">Resilience (RES)</h5>
+<p>This is your body’s ability to endure hardship without suffering from debilitating injuries.  Many believe it is best to avoid being hit entirely.. but nobody will say that not being able to take a blow is a good thing.</p>
+
+<ul>
+  <li>Your Vitality is (RES * 6 + STR * 4)</li>
+  <li>Your LP (Life Points) are (RES * 2 + KI)</li>
+  <li>You add (RES/10) to your Stamina rolls.</li>
+</ul>
+
+<h5 id="ki-ki">Ki (KI)</h5>
+<p>The spiritual energy that exists within everyone and every living thing, it suffuses the world, but not everyone is ‘in tune’ with it, nor do they even realize it exists, much less have a capacity to make use of it.  Ki is both a measure of your own reserves of energy, and your ability to make use of that Ki.</p>
+
+<ul>
+  <li>Your Ki Damage Bonus (KDB) is KI/25, rounded down to one decimal point.</li>
+  <li>You add (KI/10) to your Ki Exhaustion rolls.</li>
+</ul>
+
+<h5 id="dexterity-dex">Dexterity (DEX)</h5>
+<p>Representing your deftness, precision, and reflexes.  This statistic is very important in combat, as it is what helps determine whether you can actually hit things that are moving at high speeds (such as other people you are likely to fight).</p>
+
+<ul>
+  <li>Your Accuracy bonus is DEX/10.</li>
+</ul>
+
+<h5 id="agility-agi">Agility (AGI)</h5>
+<p>The sister attribute to dexterity, measuring how quickly you can react to danger, how fast you can move, and as the name suggests, how agile you are overall.</p>
+
+<ul>
+  <li>Your Dodge bonus is AGI/10.</li>
+  <li>Your Initiaitve bonus is AGI/10.</li>
+</ul>
+
+<h4 id="secondary-stats">Secondary Stats</h4>
+<h5 id="vitality-vit">Vitality (VIT)</h5>
+<p>Vitality represents your character’s ability to withstand or shrug off damage, to turn a dangerous blow into a glancing one, and to take a beating without getting seriously injured. You have a current and maximum vitality; whenever you take damage, you reduce your current vitality by that amount, though your maximum Vitality is unaffected.</p>
+
+<ul>
+  <li>Your Vitality equals your (RES * 6 + STR * 4)</li>
+</ul>
+
+<h5 id="life-points-lp">Life Points (LP)</h5>
+<p>Life points are your ‘life force’, representing injuries that have significantly harmed you and caused serious damage to your body.  After your Vitality reaches 0, you take damage to your Life Points; an attack which depletes your Vitality has the rest of its damage carry over into your LP. When you reach 0 LP, you become incapacitated, leaving you unable to perform any actions and vulnerable to being knocked out or killed; you die automatically if you reach -100% of your Maximum LP (so track if you go into ‘negative’ LP).</p>
+
+<ul>
+  <li>You have (RES * 2 + KI) Life Points.</li>
+</ul>
+
+<h5 id="damage-bonuses">Damage Bonuses</h5>
+<p>As the name suggests, this is potent you are at inflicting injuries to others.  Full details on how they work can be found in the Combat chapter, but by default you multiply every attack’s Speed by its relevant Damage Bonus, either Ki or Physical.  Damage Bonuses are unique in that they are calcualted to a single decimal place, rounded down.  For example, with a STR of 25, you’d have a damage bonus of (25/15 = 1.6666) = 1.6.</p>
+
+<ul>
+  <li>Your Physical Damage bonus (PDB) is STR/15.</li>
+  <li>Your Ki Damage Bonus (KDB) is KI/15.</li>
+</ul>
+
+<h5 id="willpower-wp">Willpower (WP)</h5>
+<p>Your overall strength of will.  This is both your raw determination, and your confidence in your body’s ability to keep going, and perform at a higher level, even when it, well, can’t.</p>
+
+<ul>
+  <li>Your Willpower is calculated as (STR + RES + KI + DEX + AGI)/200, with a minimum of 1.</li>
+</ul>
+
+<h5 id="powerlevel-pl">Powerlevel (PL)</h5>
+<p>Your powerlevel is, as the name implies, a numerical measurement of how strong you are.  The higher someone’s powerlevel is, the more formidable they are - supposedly. It only measures raw ability, not skill or many other factors, so it is not entirely accurate, but some people swear by it being a true measurement of whom can defeat whom.</p>
+
+<ul>
+  <li>Your Powerlevel is (Current Vitality + KI)*(STR+DEX+SPD)/10</li>
+</ul>
+
+<p>Someone reduced to below 0 Life Points (who is near death) still has a power level; however, some races might have ‘Sub-LP’, and when reduced to this extra pool of Life Points, they do not give off a powerlevel, appearing dead.</p>
 
       </d-article>
 
