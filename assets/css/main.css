@@ -983,7 +983,8 @@ d-article d-contents nav ul li {
   margin-bottom: 0.25em;
 }
 d-article d-contents .figcaption {
-  line-height: 1.4em;
+  line-height: 1.3em;
+  font-size: 16px;
 }
 d-article d-contents toc-line {
   border-right: 1px solid var(--global-divider-color);
