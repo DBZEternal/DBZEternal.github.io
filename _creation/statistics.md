@@ -2,6 +2,17 @@
 layout: distill
 title: Statistics
 permalink: /creation/statistics/
+toc:
+ - name: Strength (STR)
+ - name: Resilience (RES)
+ - name: Ki (KI)
+ - name: Dexterity (DEX)
+ - name: Agility (AGI)
+ - name: Vitality (VIT)
+ - name: Life Points (LP)
+ - name: Damage bonuses
+ - name: Willpower (WP)
+ - name: Powerlevel (PL)
 ---
 
 Attributes (also commonly referred to as statistics, or ‘stats’ for short) are numerical representations of your character’s overall physical condition: how strong they are, how fast they are, and so forth. They are the baseline for determining performance.

@@ -2,6 +2,15 @@
 layout: distill
 title: Skills
 permalink: /creation/skills/
+toc:
+ - name: Athletics (ATH)
+ - name: Aura (AUR)
+ - name: Defensive Ki Control (DKC)
+ - name: Flight (FLT)
+ - name: Offensive Ki Control (OKC)
+ - name: Intuition (INT)
+ - name: Toughness (TGH)
+ - name: Weaponry (WPN)
 ---
 
 Skills represent broad areas of ability and learning, and how well your character can make use of what they know.
