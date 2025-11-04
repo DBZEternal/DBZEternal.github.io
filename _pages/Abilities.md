@@ -41,16 +41,16 @@ Certain abilities will also say "Requires: (something)". You cannot take any ran
 #### -=[ Enlarged Ki Blast ]=-
 The larger the blast, the *better* the blast, so they say.  This ability allows you to make better use of the sheer amount of Ki put into your attacks to better hit your intended target.  For every 10 points your Ki attacks cost, they gain +1 Accuracy, to a maximum of your ranks of this ability or the Ki attack's cost, whichever is lower.  (e.g., with 2 ranks of EKB, you would gain +2 to your Accuracy for Ki attacks costing 20 or more KE; you would need a third rank in order to get a +3 from Ki Attacks costing 30 or more).
 
-Base cost: 15
-Scale: 5
-Limit: Offensive Ki Control / 5
+ - Base cost: 15  
+ - Scale: 5  
+ - Limit: Offensive Ki Control / 5
 
 #### -=[ Firepower ]=-
 You are able to increase your Ki's density, causing your Ki attacks to inflict more damage by more efficiently forming and maintaining the energy until impact.  Each rank increases the damage your Ki Attacks deal by 1, but the total damage from this ability can not exceed the damage provided by your Damage bonus multiplied by the attack's speed (normally only an issue with low speed attacks).
 
-Base Cost: 0
-Scale: 1
-Limit: Offensive Ki Control
+ - Base Cost: 0  
+ - Scale: 1  
+ - Limit: Offensive Ki Control
 
 
 
@@ -58,7 +58,7 @@ Limit: Offensive Ki Control
 #### -=[ Elemental Affinity ]=-
 Every ninja has a natural affinity for one of the five primary elements, though some may not discover it until later. This ability can be taken for any one of the five elements, even one your character cannot use. For each rank, you get a +1 bonus to Chakra Exhaustion and Chakra Control rolls involving your favored element. The Chakra Control skill requirements to learn jutsu according to rank are considered 1 point lower, per rank, for your chosen element. Some clans start with a specific Elemental Affinity, giving them one rank in this ability. This does not (necessarily) provide them with the matching Elemental Aptitude, though it does mean they cannot change their affinity.
 
-- Base Cost: 0
-- Scale: +1
-- Limit: CHA /20, max 5
-- Special: You may only take this ability for a single element, ever.
+Base Cost: 0  
+  - Scale: +1
+  - Limit: CHA /20, max 5
+  - Special: You may only take this ability for a single element, ever.
