@@ -29,9 +29,9 @@ Martial artists have +5% Bonus XP.
 -=[ Martial Artist Aura ]=-
 Trained fighters fundamentally utilize Ki and become more proficient with it to perform superhuman feats, but Martial Artists are capable of tapping into truly impressive feats of its usage, turning their energy into a shield to withstand otherwise lethal injuries.
 
-Base Cost: 0
-Scale: 1
-Limit: KI/10
+ - Base Cost: 0  
+ - Scale: 1  
+ - Limit: KI/10  
 
 With this ability, you can choose to, in response to taking damage from an attack, reduce that damage by (KI/5) * X, by increasing your Ki Exhaustion penalty by X.  X’s maximum is the number of ranks of this ability you have. 
 
@@ -42,17 +42,17 @@ You may additionally elect to use this ability as a Speed 0 Interrupt in respons
 -=[ Expansive Ki ]=- 
 Martial Artists are more in tune with the natural Ki around them than most, and make use of it when fighting to be capable of recovering their energies continuously throughout a battle.
 
-Base Cost: 10
-Scale: 10 
-Limit: 1 +XP/1000
+ - Base Cost: 10  
+ - Scale: 10  
+ - Limit: 1 +XP/1000  
 
 For every rank of this ability you have, every 25 full IC which passes while you are fighting, you reduce your current Ki Exhaustion penalty by 1. This can not bring your penalty above 0.
 
 -=[ Ki Discipline ]=-
 By moderating how much energy they use and not going "full force" at all times, Martial Artists can greatly extend their training times and pace themselves against opponents who might try to tire them out.
 
-Base Cost: 5
-Scale: 0
-Limit: KI/30
+ - Base Cost: 5  
+ - Scale: 0  
+ - Limit: KI/30  
 
 For every rank you have, you can reduce your Base Ki Damage Bonus for an attack by 1 to decrease the penalty you receive from a successful Ki Exhaustion roll by 1, to a minimum of -0. Using any rank of this ability halves the base damage of the technique (e.g., (Base dice)/2+Speed*(KDB-X).
