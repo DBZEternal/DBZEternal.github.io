@@ -131,6 +131,10 @@ collections:
   creation:
    output: true
    permalink: /creation/
+
+  uniques:
+  output: true
+  permalink: /uniques/
   
 
 news:
