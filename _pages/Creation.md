@@ -14,5 +14,3 @@ children:
     - title: Skills
       permalink: /creation/skills/
 ---
-
-Test page.
