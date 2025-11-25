@@ -126,15 +126,15 @@ collections:
   
   races:
     output: true
-    permalink: /races/:path/
+    permalink: /races/
   
   creation:
    output: true
    permalink: /creation/
 
   uniques:
-  output: true
-  permalink: /uniques/
+   output: true
+   permalink: /uniques/
   
 
 news:
